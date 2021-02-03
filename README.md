@@ -39,7 +39,7 @@ A front-end web developer and beginner level system administrator :bar_chart:. I
 
 
 - 🌱 I’m currently pursuing **BE Computer Science and Engineering | III Year**.
-- :bulb: I'm interested in all things data: **Java, Web page development, Analysing system problems**
+- 💡 I'm interested in all things data: **Java, Web page development, Analysing system problems**
 - ⚡Creating tech videos for my youtube channel
 
 
@@ -58,8 +58,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p> align="center"
+**If you find my creations good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
+</p>
 
-**If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
@@ -67,10 +69,6 @@ Here are some ideas to get you started:
    <i>You miss 100% of the shots you don't take.</i>
    <br>
    
-   
-<a href="https://github.com/gtamilvanan17">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtamilvanan17&theme=light&hide_langs_below=1" />
-</a>
 <a href="https://github.com/gtamilvanan17">
  <img align="right" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&show_icons=true&theme=Gradient" alt="tamilvanan's github stats"/>
 </a>
