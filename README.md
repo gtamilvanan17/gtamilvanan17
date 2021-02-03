@@ -63,13 +63,15 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-**If you find my creations good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
+**If you find my creations good, consider giving it a :star: to show some :heart:. 
+<br/>
+  It helps me stay on track and be motivated.**
 </p>
 
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br/>
+   <br>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
    
