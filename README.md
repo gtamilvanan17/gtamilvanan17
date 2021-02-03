@@ -1,7 +1,8 @@
 
 ### Hi there 👋 I'm Tamilvanan ,
 <p align="left">
-   **Social Medias**
+  
+   **Social Medias** :
  <div>
   <a href="https://t.me/tamilvanang">
   <img align="left" alt="tamilvanang's Telegram" width="22px" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/telegram.svg" />
@@ -33,15 +34,11 @@
 </a>
 </div>
 
-
-<p>
-    A front-end web developer and beginner level system administrator :bar_chart:. I like analysing systems, building web pages, exploring internet for better stuffs.
-</p
-
-
-- 🌱 I’m currently pursuing **BE Computer Science and Engineering | III Year**.
-- 💡 I'm interested in all things data: **Java, Web page development, Analysing system problems**
-- ⚡Creating tech videos for my youtube channel
+- 📑  A front-end web developer and beginner level system administrator.
+- 💻  I like analysing systems, building web pages, exploring internet for better stuffs.
+- 🌱  I’m currently pursuing **BE Computer Science and Engineering | III Year**.
+- 💡  I'm interested in all things data: **Java, Web page development, Analysing system problems**
+- ⚡ Creating tech videos for my youtube channel
 
 
 <!--
@@ -60,6 +57,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
+  
 **If you find my creations good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
 </p>
 
