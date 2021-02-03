@@ -1,18 +1,13 @@
-![License](https://img.shields.io/github/license/Thomas-George-T/Thomas-George-T?style=flat)
-![ViewCount](http://bit.ly/Thomas-Github-Visits)
 
 ### Hi there 👋 I'm Tamilvanan ,
 
-A data engineer passionate about Data Science :bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+A front-end web developer and beginner level system administrator :bar_chart:. I like analysing systems, building web pages, exploring internet for better stuffs.
 
 
 - ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
-- 🔭 I’m currently working on:
-	- Building a Recommender Systems for Movies.
-	- A.I Professional Certification
-- :bulb: I'm interested in all things data: **Big Data, Cloud, Machine Learning and Data Science**
+🌱 I’m currently pursuing **BE Computer Science and Engineering | III Year**.
+- :bulb: I'm interested in all things data: **Java, Web page development, Analysing system problems**
 - 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
-- 🌱 I’m currently pursuing **Machine learning**.
 
 ### My skills include
 
@@ -46,10 +41,6 @@ Here are some ideas to get you started:
 -->
 
 
-### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@thomas_george_thomas/0" alt="Recent Article on medium"></img></a>   
-    
-    
 **If you find my work good, consider giving it a :star: to show some :heart:. It helps me stay on track and be motivated.**
 <hr>
 <p align="center">
