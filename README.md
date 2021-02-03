@@ -32,10 +32,42 @@ Here are some ideas to get you started:
    <br>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
-<br>
-<a target="_blank" href="https://linkedin.com/in/tamilvanang17"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:tamilbe17@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
-<a target="_blank" href="https://www.instagram.com/mr.404.internet"><img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=Medium&logoColor=white"></img></a>
-<a target="_blank" href="https://twitter.com/g_tamilvanan_17"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<br>
-</p>       
+   
+ **Social Medias :**  
+ <div>
+  <a href="https://t.me/tamilvanang">
+  <img align="left" alt="tamilvanang's Telegram" width="22px" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/telegram.svg" />
+</a>
+</div>
+<div>
+<a href="https://linkedin.com/in/tamilvanang17" target="_blank" rel="noopener noreferrer">
+  <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/linkedin.svg" alt="LinkedIn" width="20px" height="20px"/>
+</a>
+</div>
+<div>
+ <a href="https://github.com/gtamilvanan17" target="_blank" rel="noopener noreferrer">
+  <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/github.svg" alt="GitHub" width="20px" height="20px"/>
+</a>
+</div>
+<div>
+<a href="https://twitter.com/g_tamilvanan_17" target="_blank" rel="noopener noreferrer">
+  <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/twitter.svg" alt="twitter" width="20px" height="20px"/>
+</a>
+</div>
+<div>
+<a href="https://www.instagram.com/mr.404.internet/" target="_blank" rel="noopener noreferrer">
+  <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/instagram.svg" alt="instagram" width="20px" height="20px"/>
+</a>
+</div>
+<div>
+<a href="https://www.facebook.com/Tamilvanan17" target="_blank" rel="noopener noreferrer">
+  <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/facebook.svg" alt="facebook" width="20px" height="20px"/>
+</a>
+</div>
+
+<a href="https://github.com/gtamilvanan17">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtamilvanan17&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/gtamilvanan17">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&show_icons=true&theme=Gradient" alt="tamilvanan's github stats"/>
+</a>
