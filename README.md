@@ -10,7 +10,7 @@ A front-end web developer and beginner level system administrator :bar_chart:. I
 
 
 <!--
-**Thomas-George-T/Thomas-George-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gtamilvanan17/gtamilvanan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 T
 Here are some ideas to get you started:
 
