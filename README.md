@@ -69,10 +69,7 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
-   <br>
+   <br/>
    <i>You miss 100% of the shots you don't take.</i>
    <br>
    
-<a href="https://github.com/gtamilvanan17">
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&show_icons=true&theme=Gradient" alt="tamilvanan's github stats"/>
-</a>
