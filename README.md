@@ -61,11 +61,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<hr>
 <p align="center">
-  
-         If you find my creations good, consider giving it a :star: to show some :heart:. 
-    <br/>
-         It helps me stay on track and be motivated.
+   **If you find my creations good, consider giving it a :star: to show some :heart:.It helps me stay on track and be motivated. **
 
 
 <hr>
