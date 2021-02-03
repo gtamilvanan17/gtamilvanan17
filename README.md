@@ -34,11 +34,15 @@
 </a>
 </div>
 
+<p>
+  
 - 📑  A front-end web developer and beginner level system administrator.
 - 💻  I like analysing systems, building web pages, exploring internet for better stuffs.
 - 🌱  I’m currently pursuing **BE Computer Science and Engineering | III Year**.
 - 💡  I'm interested in all things data: **Java, Web page development, Analysing system problems**
 - ⚡ Creating tech videos for my youtube channel
+
+</p>
 
 
 <!--
