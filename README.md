@@ -4,10 +4,9 @@
 A front-end web developer and beginner level system administrator :bar_chart:. I like analysing systems, building web pages, exploring internet for better stuffs.
 
 
-- ⚡ **Fun fact:** I believe in the *Chaos theory*: Even in unpredictable environments with seemingly random oddities and irregularities lies a predictable & sensible pattern not seen initially.
 - 🌱 I’m currently pursuing **BE Computer Science and Engineering | III Year**.
 - :bulb: I'm interested in all things data: **Java, Web page development, Analysing system problems**
-- 💬 Talk to me about Formula 1 :racing_car:, Memes, anything that interests you.
+- Creating tech videos for my youtube channel
 
 ### My skills include
 
