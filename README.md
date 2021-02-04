@@ -27,6 +27,29 @@ https://media.giphy.com/media/MCjs02YJ1PjsfP8WJx/giphy.gif -- arrow mark red col
   <img align="left" alt="tamilvanang's Telegram" width="22px" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/telegram.svg" />
 </a>
 
+
+  
+- 📑  A front-end web developer and beginner level system administrator.
+- 💻  I like analysing systems, building web pages, exploring internet for better stuffs.
+- 🌱  I’m currently pursuing **BE Computer Science and Engineering | III Year**.
+- 💡  I'm interested in all things data: **Java, Web page development, Analysing system problems**
+- ⚡ Creating tech videos for my youtube channel
+
+<!--
+**gtamilvanan17/gtamilvanan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+T
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
 <a href="https://linkedin.com/in/tamilvanang17" target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/linkedin.svg" alt="LinkedIn" width="20px" height="20px"/>
 </a>
@@ -53,27 +76,6 @@ https://media.giphy.com/media/MCjs02YJ1PjsfP8WJx/giphy.gif -- arrow mark red col
 </div>
 <br/>
 <br/>
-  
-- 📑  A front-end web developer and beginner level system administrator.
-- 💻  I like analysing systems, building web pages, exploring internet for better stuffs.
-- 🌱  I’m currently pursuing **BE Computer Science and Engineering | III Year**.
-- 💡  I'm interested in all things data: **Java, Web page development, Analysing system problems**
-- ⚡ Creating tech videos for my youtube channel
-
-<!--
-**gtamilvanan17/gtamilvanan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-T
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <hr>
 <p align="center">
