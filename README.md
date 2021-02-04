@@ -19,13 +19,7 @@ https://media.giphy.com/media/MCjs02YJ1PjsfP8WJx/giphy.gif -- arrow mark red col
 -->
 <p align="left">
   
-   **Social Medias** :
- <div>
-  <img align='left' src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif" width="200" height="270">
-  <img align='right' src="https://media.giphy.com/media/8Bl36cCE2p6wxE1MQj/giphy.gif" width="200" height="270">
-  <a href="https://t.me/tamilvanang">
-  <img align="left" alt="tamilvanang's Telegram" width="22px" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/telegram.svg" />
-</a>
+ 
 
 
   
@@ -49,27 +43,30 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+  **Social Medias** :
+  <p align="center"
+ <div>
+  <img align='left' src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif" width="200" height="270">
+  <img align='right' src="https://media.giphy.com/media/8Bl36cCE2p6wxE1MQj/giphy.gif" width="200" height="270">
+  <a href="https://t.me/tamilvanang">
+  <img align="left" alt="tamilvanang's Telegram" width="22px" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/telegram.svg" />
+</a>
 <a href="https://linkedin.com/in/tamilvanang17" target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/linkedin.svg" alt="LinkedIn" width="20px" height="20px"/>
 </a>
-</div>
-<div>
+
  <a href="https://github.com/gtamilvanan17" target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/github.svg" alt="GitHub" width="20px" height="20px"/>
 </a>
-</div>
-<div>
+
 <a href="https://twitter.com/g_tamilvanan_17" target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/twitter.svg" alt="twitter" width="20px" height="20px"/>
 </a>
-</div>
-<div>
+
 <a href="https://www.instagram.com/mr.404.internet/" target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/instagram.svg" alt="instagram" width="20px" height="20px"/>
 </a>
-</div>
-<div>
+
 <a href="https://www.facebook.com/Tamilvanan17" target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/facebook.svg" alt="facebook" width="20px" height="20px"/>
 </a>
