@@ -1,5 +1,22 @@
 
 ### Hi there 👋 I'm Tamilvanan ,
+
+
+<p align="center">
+<img align='center' src="https://media.giphy.com/media/KDDoBnj6ZWyxyzmcT4/giphy.gif" width="800" height="29">
+
+
+
+<!--
+giphys that doni work -- please don't use this
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230" height="150">
+<img align='right' src="https://gifer.com/en/EgUv" width="230">
+<img align='right' src="https://media.giphy.com/media/8mjUZ0VqCZviAKv50x/giphy.gif" width="230" height="150">
+https://media.giphy.com/media/MCjs02YJ1PjsfP8WJx/giphy.gif -- arrow mark red colour
+-->
+
+
 <p align="left">
   
    **Social Medias** :
@@ -36,6 +53,10 @@
 
 <br/>
 <br/>
+
+<p align="right">
+<img align='right' src="https://media.giphy.com/media/l46CbYrctttWjRjUs/giphy.gif" width="300" height="330">
+
   
 - 📑  A front-end web developer and beginner level system administrator.
 - 💻  I like analysing systems, building web pages, exploring internet for better stuffs.
@@ -62,6 +83,8 @@ Here are some ideas to get you started:
 -->
 
 <hr>
+
+
 <p align="center">
    **If you find my creations good, consider giving it a :star: to show some :heart:.It helps me stay on track and be motivated. **
 
