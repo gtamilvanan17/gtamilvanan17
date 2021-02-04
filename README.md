@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   **Social Medias** :
-  <p align="right"
+  <p align="right">
  <div>
   <img align='left' src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif" width="200" height="270">
   <img align='right' src="https://media.giphy.com/media/8Bl36cCE2p6wxE1MQj/giphy.gif" width="200" height="270">
