@@ -75,10 +75,14 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+  
    **If you find my creations good, consider giving it a :star: to show some :heart:.It helps me stay on track and be motivated. **
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+  
+   **A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
+<p align="center">   
+  
+   **You miss 100% of the shots you don't take.
    <br> 
