@@ -1,7 +1,7 @@
 
 ### Hi there 👋 I'm Tamilvanan ,
 <p align="center">
-<img align='center' src="https://media.giphy.com/media/KDDoBnj6ZWyxyzmcT4/giphy.gif" width="800" height="29">
+<img align='center' src="https://media.giphy.com/media/KDDoBnj6ZWyxyzmcT4/giphy.gif" width="600" height="21">
 <!--
 giphys that don't work -- please don't use this
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
@@ -11,6 +11,8 @@ giphys that don't work -- please don't use this
 https://media.giphy.com/media/MCjs02YJ1PjsfP8WJx/giphy.gif -- arrow mark red colour
 -->
 
+<p align="right">
+<img align='right' src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/gif-unscreen.gif" width="200" height="250">
 
 <p align="left">
   
@@ -69,7 +71,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<hr>
+
 <p align="center">
    **If you find my creations good, consider giving it a :star: to show some :heart:.It helps me stay on track and be motivated. **
 <hr>
