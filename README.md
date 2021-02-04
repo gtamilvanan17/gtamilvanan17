@@ -1,6 +1,7 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=sunil2k1&color=blue&logo=flat)
 
 ### Hi there 👋 I'm Tamilvanan ,
+![Visitor Count](https://komarev.com/ghpvc/?username=gtamilvanan17&color=blue&logo=flat)
+
 <p align="center">
 <img align='center' src="https://media.giphy.com/media/KDDoBnj6ZWyxyzmcT4/giphy.gif" width="600" height="21">
 <!--
