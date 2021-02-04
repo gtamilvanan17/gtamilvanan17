@@ -1,14 +1,9 @@
 
 ### Hi there 👋 I'm Tamilvanan ,
-
-
 <p align="center">
 <img align='center' src="https://media.giphy.com/media/KDDoBnj6ZWyxyzmcT4/giphy.gif" width="800" height="29">
-
-
-
 <!--
-giphys that doni work -- please don't use this
+giphys that don't work -- please don't use this
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <img align='right' src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="230" height="150">
 <img align='right' src="https://gifer.com/en/EgUv" width="230">
@@ -50,22 +45,14 @@ https://media.giphy.com/media/MCjs02YJ1PjsfP8WJx/giphy.gif -- arrow mark red col
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/facebook.svg" alt="facebook" width="20px" height="20px"/>
 </a>
 </div>
-
 <br/>
 <br/>
-
-<p align="right">
-<img align='right' src="https://media.giphy.com/media/l46CbYrctttWjRjUs/giphy.gif" width="300" height="330">
-
   
 - 📑  A front-end web developer and beginner level system administrator.
 - 💻  I like analysing systems, building web pages, exploring internet for better stuffs.
 - 🌱  I’m currently pursuing **BE Computer Science and Engineering | III Year**.
 - 💡  I'm interested in all things data: **Java, Web page development, Analysing system problems**
 - ⚡ Creating tech videos for my youtube channel
-
-
-
 
 <!--
 **gtamilvanan17/gtamilvanan17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -83,16 +70,11 @@ Here are some ideas to get you started:
 -->
 
 <hr>
-
-
 <p align="center">
    **If you find my creations good, consider giving it a :star: to show some :heart:.It helps me stay on track and be motivated. **
-
-
 <hr>
 <p align="center">
    <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
    <br>
    <i>You miss 100% of the shots you don't take.</i>
-   <br>
-   
+   <br> 
