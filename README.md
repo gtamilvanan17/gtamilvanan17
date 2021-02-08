@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <hr>
 <p align="center">
-   If you find my creations good, consider giving it a :star: to show some :heart:
+   If you find my creations good, consider giving it a :star: to show some 💖
 <p align="center">
   It helps me stay on track and be motivated🎯
 <hr>
