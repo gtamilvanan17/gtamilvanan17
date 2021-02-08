@@ -43,7 +43,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-  <p align="centre"> Get in touch with me here !!!
+  <p align="centre"> Get in touch with me here !!! </p>
+  
   <p align="right">
  <div>
   <img align='left' src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif" width="200" height="270">
