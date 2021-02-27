@@ -94,8 +94,13 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-📫 Let's Get In Touch
+<br/>
 
+### <p align="left">
+  
+  📫 Let's Get In Touch
+
+</p>
 <br/>
 
 <a href='https://www.linkedin.com/in/tamilvanang17'>
