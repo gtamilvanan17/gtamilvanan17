@@ -53,7 +53,7 @@ Here are some ideas to get you started:
  <div>
   <img align='left' src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif" width="200" height="270">
   <img align='right' src="https://media.giphy.com/media/8Bl36cCE2p6wxE1MQj/giphy.gif" width="200" height="270">
-   <br/>
+  
    
  <!--
 <p align="centre"> Get in touch with me here !!! </p>
@@ -96,6 +96,7 @@ Here are some ideas to get you started:
 </p>
 
 <br/>
+</br>
 
  <p align="left">
   
