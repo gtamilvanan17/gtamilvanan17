@@ -97,9 +97,9 @@ Here are some ideas to get you started:
 
 <br/>
 
-### <p align="left">
+ <p align="left">
   
-  📫 Let's Get In Touch
+###  📫 Let's Get In Touch
 
 </p>
 <br/>
