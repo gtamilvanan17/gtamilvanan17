@@ -44,14 +44,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
   
-  <!--
-  <p align="centre"> Get in touch with me here !!! </p>
   
   <p align="right">
  <div>
   <img align='left' src="https://media.giphy.com/media/7zSBoGW2VoCEzWVjyA/giphy.gif" width="200" height="270">
   <img align='right' src="https://media.giphy.com/media/8Bl36cCE2p6wxE1MQj/giphy.gif" width="200" height="270">
+   
+ <!--
 
+<p align="centre"> Get in touch with me here !!! </p>
   <a href="https://t.me/tamilvanang">
   <img align="left" alt="tamilvanang's Telegram" width="22px" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/telegram.svg" />
 </a>
