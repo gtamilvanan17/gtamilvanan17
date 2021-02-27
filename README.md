@@ -100,7 +100,7 @@ Here are some ideas to get you started:
 </a>
 </p>
 
-### 📫 Let's Get In Touch
+<p allign="right" 📫 Let's Get In Touch </p>
 
 <br/>
 
