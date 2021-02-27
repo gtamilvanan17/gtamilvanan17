@@ -89,3 +89,11 @@ Here are some ideas to get you started:
    <br> -->
 
 
+<p align="center">
+<a href="https://github.com/gtamilvanan17">
+  <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&include_all_commits=true&count_private=true&show_icons=true&theme=default_repocard&hide_border=true" />
+</a>
+<a href="https://github.com/gtamilvanan17">
+  <img height="200px" width="40%" alt="top languages stats" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtamilvanan17&hide=java&langs_count=8&layout=compact&theme=default_repocard&hide_border=true" />
+</a>
+</p>
