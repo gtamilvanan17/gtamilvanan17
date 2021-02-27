@@ -43,6 +43,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+  
+  <!--
   <p align="centre"> Get in touch with me here !!! </p>
   
   <p align="right">
@@ -84,4 +86,6 @@ Here are some ideas to get you started:
 <hr>
 <p align="center">
    A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.
-   <br>
+   <br> -->
+
+
