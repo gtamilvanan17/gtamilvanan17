@@ -105,35 +105,35 @@ Here are some ideas to get you started:
 <br/>
 
 <a href='https://www.linkedin.com/in/tamilvanang17'>
-<img align="left" alt="Sagar Choudhary Linkedin" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/linkedin.svg" />
+<img align="left" alt="Tamilvanan's Linkedin" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/linkedin.svg" />
 </a>
 
 <a href='https://www.github.com/gtamilvanan17'>
-<img align="left" alt="Sagar Choudhary Github" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/github.svg" />
+<img align="left" alt="Tamilvanan's Github" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/github.svg" />
 </a>
 
 <a href='https://www.twitter.com/g_tamilvanan_17'>
-<img align="left" alt="Sagar Choudhary Twitter" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/twitter.svg" />
+<img align="left" alt="Tamilvanan's Twitter" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/twitter.svg" />
 </a>
 <!--
 <a href='https://discord.gg/J9mh7TrDAR'>
-<img align="left" alt="Sagar Choudhary Discord" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/discord.svg" />
+<img align="left" alt="Tamilvanan' Discord" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/discord.svg" />
 </a> -->
 
 <a href='https://www.instagram.com/mr.404.internet'>
-<img align="left" alt="Sagar Choudhary Instagram" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/instagram.svg" />
+<img align="left" alt="Tamilvanan's Instagram" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/instagram.svg" />
 </a>
 
 <a href='https://t.me/tamilvanang'>
-<img align="left" width="28" alt="Sagar Choudhary Telegram" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/telegram.svg" />
+<img align="left" width="28" alt="Tamilvanan's Telegram" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/telegram.svg" />
 </a>
 
 <a href='https://www.facebook.com/Tamilvanan17'>
-<img align="left" alt="Sagar Choudhary Instagram" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/instagram.svg" />
+<img align="left" alt="Tamilvanan's Instagram" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/facebook.svg" />
 </a>
 
 <a href="mailto:tamilbe17@gmail.com">
-<img align="left" width="28" alt="Sagar Choudhary Mail" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/gmail.svg" />
+<img align="left" width="28" alt="Tamilvanan's Mail" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/gmail.svg" />
 </a>
 
 <br />
