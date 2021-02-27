@@ -1,6 +1,10 @@
 
+### Hey There <img src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/wave.gif" width="30px"> ![visitors](https://visitor-badge.glitch.me/badge?page_id=gtamilvanan17.gtamilvanan17)
+
+
+<!--
 ### Hi there 👋 I'm Tamilvanan ,
-![Visitor Count](https://komarev.com/ghpvc/?username=gtamilvanan17&color=blue&logo=flat)
+![Visitor Count](https://komarev.com/ghpvc/?username=gtamilvanan17&color=blue&logo=flat) -->
 
 <p align="center">
 <img align='center' src="https://media.giphy.com/media/KDDoBnj6ZWyxyzmcT4/giphy.gif" width="600" height="21">
@@ -95,3 +99,42 @@ Here are some ideas to get you started:
   <img height="200px"width="55%" align="center" alt="github stats" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&include_all_commits=true&count_private=true&show_icons=true&theme=default_repocard&hide_border=true" />
 </a>
 </p>
+
+### 📫 Let's Get In Touch
+
+<br/>
+
+<a href='https://www.linkedin.com/in/tamilvanang17'>
+<img align="left" alt="Sagar Choudhary Linkedin" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/linkedin.svg" />
+</a>
+
+<a href='https://www.github.com/gtamilvanan17'>
+<img align="left" alt="Sagar Choudhary Github" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/github.svg" />
+</a>
+
+<a href='https://www.twitter.com/g_tamilvanan_17'>
+<img align="left" alt="Sagar Choudhary Twitter" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/twitter.svg" />
+</a>
+<!--
+<a href='https://discord.gg/J9mh7TrDAR'>
+<img align="left" alt="Sagar Choudhary Discord" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/discord.svg" />
+</a> -->
+
+<a href='https://www.instagram.com/mr.404.internet'>
+<img align="left" alt="Sagar Choudhary Instagram" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/instagram.svg" />
+</a>
+
+<a href='https://t.me/tamilvanang'>
+<img align="left" width="28" alt="Sagar Choudhary Telegram" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/telegram.svg" />
+</a>
+
+<a href='https://www.facebook.com/Tamilvanan17'>
+<img align="left" alt="Sagar Choudhary Instagram" width="28" src="https://raw.githubusercontent.com/sagarchoudhary96/sagarchoudhary96/main/icons/instagram.svg" />
+</a>
+
+<a href="mailto:tamilbe17@gmail.com">
+<img align="left" width="28" alt="Sagar Choudhary Mail" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/gmail.svg" />
+</a>
+
+<br />
+<br />
