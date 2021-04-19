@@ -113,7 +113,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Tamilvanan's Github" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/github.svg" />
 </a>
 
-<a href='https://www.twitter.com/g_tamilvanan_17'>
+<a href='https://www.twitter.com/gtamilvanan17'>
 <img align="left" alt="Tamilvanan's Twitter" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/twitter.svg" />
 </a>
 <!--
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
 <img align="left" alt="Tamilvanan' Discord" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/discord.svg" />
 </a> -->
 
-<a href='https://www.instagram.com/mr.404.internet'>
+<a href='https://www.instagram.com/tamilvanan.me'>
 <img align="left" alt="Tamilvanan's Instagram" width="28" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/logos/instagram.svg" />
 </a>
 
