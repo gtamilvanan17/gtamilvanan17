@@ -66,10 +66,10 @@ Here are some ideas to get you started:
  <a href="https://github.com/gtamilvanan17" target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/github.svg" alt="GitHub" width="20px" height="20px"/>
 </a>
-<a href="https://twitter.com/g_tamilvanan_17" target="_blank" rel="noopener noreferrer">
+<a href="https://twitter.com/gtamilvanan17" target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/twitter.svg" alt="twitter" width="20px" height="20px"/>
 </a>
-<a href="https://www.instagram.com/mr.404.internet/" target="_blank" rel="noopener noreferrer">
+<a href="https://www.instagram.com/tamilvanan.me/" target="_blank" rel="noopener noreferrer">
   <img align="left" src="https://github.com/gtamilvanan17/gtamilvanan17/blob/main/assets/img/social/instagram.svg" alt="instagram" width="20px" height="20px"/>
 </a>
 <a href="https://www.facebook.com/Tamilvanan17" target="_blank" rel="noopener noreferrer">
