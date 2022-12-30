@@ -1,6 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Tamilvanan Gowran 🎯️🚀️</h1>
 <h3 align="center">Hey it's me Tamilvanan Gowran.I have a keen interest in Cloud and DevOps Technologies and have a huge fascination with the inner workings of that technology.</h3>
+<img align="center" src="https://imgur.com/Z9n1y5S.gif" height=47% width=47%>
 
 <img align="right" alt="coding" width="300" src="https://media.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif">
 
