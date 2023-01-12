@@ -36,9 +36,7 @@
   <summary>📊 <b>Github Readme Stats</b></summary>
  <br />
  <p align="center">
-  <a href="https://github.com/gtamilvanan17">
-   <img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&show_icons=true&theme=radical&count_private=true">
-  </a>
+
   <a href="https://github.com/gtamilvanan17/github-readme-stats">
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gtamilvanan17&layout=compact&theme=radical&langs_count=6" />
   </a>
