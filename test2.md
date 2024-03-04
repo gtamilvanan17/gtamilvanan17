@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8pDBg6HWKg) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gtamilvanan17) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cdops1official.medium.com/) [![Hashnode](https://img.shields.io/badge/Hashnode-0078D6?logo=hashnode&logoColor=white)](https://cdops1official.hashnode.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtamilvanan17)
 
@@ -12,15 +11,6 @@
 ![FLUENTD](https://img.shields.io/badge/fluentd-0E83C8.svg?style=flat&logo=fluentd&logoColor=white&color=%230E83C8) ![GRAFANA](https://img.shields.io/badge/grafana-F46800.svg?style=flat&logo=grafana&logoColor=white&color=%23F46800) ![KIBANA](https://img.shields.io/badge/kibana-005571.svg?style=flat&logo=kibana&logoColor=white&color=%23005571) ![PROMETHEUS](https://img.shields.io/badge/prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white&color=%23E6522C) <br>
 ![SONARQUBE](https://img.shields.io/badge/sonarqube-4E9BCD.svg?style=flat&logo=sonarqube&logoColor=white&color=%234E9BCD) ![VAULT](https://img.shields.io/badge/vault-FFEC6E.svg?style=flat&logo=vault&logoColor=white&color=%23FFEC6E) <br>
 ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) <br>
-
-# 🎥 Latest YouTube Videos:
-<!-- YOUTUBE:START -->
-- [Terraform Dynamic Block Explained with Demo in Hindi | What are Dynamic Blocks in Terraform?](https://www.youtube.com/watch?v=4wGTVBzQYDs)
-- [Data Sources in Terraform | Use terraform data source to fetch aws ami ids  | Terraform Tutorials](https://www.youtube.com/watch?v=_NU3jIwvPGs)
-- [Terraform Local Values Explained | Locals in Terraform | Terraform Tutorials in Hindi](https://www.youtube.com/watch?v=ldK_98oPjMc)
-- [WordPress Deployment on AWS EC2 and RDS | Step-by-Step Guide for Two-Tier Environment | DevOps Pro](https://www.youtube.com/watch?v=R04upb-Uac4)
-- [GitHub Actions Crash Course for beginners with Projects | GitHub Action Tutorial in Hindi](https://www.youtube.com/watch?v=bSBaAspgmhU)
-<!-- YOUTUBE:END -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
