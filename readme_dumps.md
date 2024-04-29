@@ -46,4 +46,12 @@
 </details>
 
 
+## Who am I and What I do:
+
+- 🔭 I’m a **Cloud and Devps Engineer.**
+- 🌱 I’m currently dealing with **Linux, Cloud computing, Devops, CICD Deployments**
+- 👨‍💻 All of my projects are available at my github profile.
+
+
+
 # **All My Statistics Here** <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
