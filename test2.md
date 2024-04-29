@@ -11,7 +11,7 @@
 * ![FLUENTD](https://img.shields.io/badge/Fluentd-0E83C8.svg?style=flat&logo=fluentd&logoColor=white&color=%230E83C8) ![GRAFANA](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white&color=%23F46800) ![KIBANA](https://img.shields.io/badge/Kibana-005571.svg?style=flat&logo=kibana&logoColor=white&color=%23005571) ![PROMETHEUS](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white&color=%23E6522C) <br>
 * ![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) <br>
 
-## 🌐 Socials:
+## 🌐 Connect With Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtamilvanan17)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8pDBg6HWKg)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cdops1official.medium.com/) [![Hashnode](https://img.shields.io/badge/Hashnode-0078D6?logo=hashnode&logoColor=white)](https://cdops1official.hashnode.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gtamilvanan17)
 
@@ -20,10 +20,13 @@
 <details>
   <summary>📊 <b>My Github Stats</b></summary>
  <br />
- <p align="center">
+ <p align="center" >
 
   <a href="https://github.com/gtamilvanan17">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&border_radius=20" />
+  </a>
+   <a href="https://github.com/gtamilvanan17">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gtamilvanan17&theme=radical&border_radius=20" />
   </a>
  </p>
 </details>
