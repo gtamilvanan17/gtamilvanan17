@@ -15,10 +15,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtamilvanan17)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8pDBg6HWKg)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cdops1official.medium.com/) [![Hashnode](https://img.shields.io/badge/Hashnode-0078D6?logo=hashnode&logoColor=white)](https://cdops1official.hashnode.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gtamilvanan17)
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My GitHub Stats:**
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **All My Statistics Here:**
 
 <details>
-  <summary>📊 <b>Github Stats</b></summary>
+  <summary>📊 <b>My Github Stats</b></summary>
  <br />
  <p align="center">
 
@@ -29,7 +29,7 @@
 </details>
 
 <details>
-  <summary>📊 <b>Language Desity</b></summary>
+  <summary>📊 <b>My Language Desity</b></summary>
  <br />
  <p align="center">
 
@@ -44,7 +44,7 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=gtamilvanan17&column=8&theme=darkhub"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=gtamilvanan17&title=MultiLanguage,Repositories,Commits,PullRequest,Stars,Followers,Issues,Experience&column=4&row=2&theme=radical&border=20"/>
 
   </a>
  </p>
