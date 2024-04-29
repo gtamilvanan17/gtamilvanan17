@@ -42,11 +42,11 @@
     </tr>
 </table>
 
+## My Contribution Graph
+<a href="https://github.com/gtamilvanan17">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtamilvanan17&theme=rogue"/>
+
+  </a>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
-
-
-all dumps
-# **All My Statistics Here** <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40">
-
