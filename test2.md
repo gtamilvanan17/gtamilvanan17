@@ -23,7 +23,7 @@
  <p align="center">
 
   <a href="https://github.com/gtamilvanan17/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&border_radius=20" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&border_radius=20" />
   </a>
  </p>
 </details>
@@ -51,4 +51,4 @@
 </details>
   
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia&border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true)
