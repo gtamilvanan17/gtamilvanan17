@@ -1,6 +1,4 @@
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtamilvanan17)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8pDBg6HWKg)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cdops1official.medium.com/) [![Hashnode](https://img.shields.io/badge/Hashnode-0078D6?logo=hashnode&logoColor=white)](https://cdops1official.hashnode.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gtamilvanan17)
+## Test
 
 # 💻 Tech Stack:
 
@@ -12,6 +10,33 @@
 * ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat&logo=terraform&logoColor=white) <br>
 * ![FLUENTD](https://img.shields.io/badge/Fluentd-0E83C8.svg?style=flat&logo=fluentd&logoColor=white&color=%230E83C8) ![GRAFANA](https://img.shields.io/badge/Grafana-F46800.svg?style=flat&logo=grafana&logoColor=white&color=%23F46800) ![KIBANA](https://img.shields.io/badge/Kibana-005571.svg?style=flat&logo=kibana&logoColor=white&color=%23005571) ![PROMETHEUS](https://img.shields.io/badge/Prometheus-E6522C.svg?style=flat&logo=prometheus&logoColor=white&color=%23E6522C) <br>
 * ![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=flat&logo=vagrant&logoColor=white) <br>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtamilvanan17)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/8pDBg6HWKg)  [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://cdops1official.medium.com/) [![Hashnode](https://img.shields.io/badge/Hashnode-0078D6?logo=hashnode&logoColor=white)](https://cdops1official.hashnode.dev) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gtamilvanan17)
+
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My GitHub Stats:**
+
+<details>
+  <summary>📊 <b>Language Desity</b></summary>
+ <br />
+ <p align="center">
+
+  <a href="https://github.com/gtamilvanan17/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gtamilvanan17&layout=compact&theme=radical&langs_count=6" />
+  </a>
+ </p>
+</details>
+
+<details>
+ <summary>🏆 <b>My Trophy Progress</b></summary>
+ <br />
+ <p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <img src="https://github-profile-trophy.vercel.app/?username=gtamilvanan17&column=8&theme=darkhub"/>
+  </a>
+ </p>
+</details>
   
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
