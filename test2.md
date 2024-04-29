@@ -44,7 +44,7 @@
  <br />
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=gtamilvanan17&title=MultiLanguage,Repositories,Commits,PullRequest,Stars,Followers,Issues,Experience&column=4&row=2&theme=radical&border=20"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=gtamilvanan17&title=MultiLanguage,Repositories,Commits,PullRequest,Stars,Followers,Issues,Experience&column=4&row=2&theme=radical&border_radius=20"/>
 
   </a>
  </p>
