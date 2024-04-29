@@ -18,12 +18,23 @@
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **My GitHub Stats:**
 
 <details>
+  <summary>📊 <b>Github Stats</b></summary>
+ <br />
+ <p align="center">
+
+  <a href="https://github.com/gtamilvanan17/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage&border_radius=20" />
+  </a>
+ </p>
+</details>
+
+<details>
   <summary>📊 <b>Language Desity</b></summary>
  <br />
  <p align="center">
 
   <a href="https://github.com/gtamilvanan17/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=gtamilvanan17&layout=compact&theme=radical&langs_count=6" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtamilvanan17&theme=radical&border_radius=20&layout=pie" />
   </a>
  </p>
 </details>
@@ -34,6 +45,7 @@
  <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
    <img src="https://github-profile-trophy.vercel.app/?username=gtamilvanan17&column=8&theme=darkhub"/>
+
   </a>
  </p>
 </details>
