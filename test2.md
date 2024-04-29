@@ -8,6 +8,25 @@
 - 🌱 I’m currently dealing with **Linux, Cloud computing, Devops, CICD Deployments**
 - 👨‍💻 All of my projects are available at my github profile.
 
+
+<table border="0" align="center">
+    <tr>
+        <td align="center" width="450" rowspan="3" border="0">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gtamilvanan17&langs_count=12&theme=radical&border_radius=20&layout=pie" width="450" />
+        </td>        
+        <td align="center" width="440" border="0">
+            <img src="https://github-readme-stats.vercel.app/api?username=gtamilvanan17&show_icons=true&theme=radical&show=reviews,prs_merged,prs_merged_percentage&border_radius=20" alt="robhimslf's GitHub Stats" width="440" />
+        </td>
+    </tr>
+    <tr></tr>
+    <tr>
+        <td align="center" width="440" border="0">
+            <img src="https://github-profile-trophy.vercel.app/?username=gtamilvanan17&title=MultiLanguage,Repositories,Commits,PullRequest,Stars,Followers,Issues,Experience&column=4&row=2&theme=radical&border_radius=20" alt="robhimslf's Top Languages" width="440" />
+        </td>
+    </tr>
+</table>
+
+
 ## Tech Stack:
 * ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) <br>
 * ![GIT](https://img.shields.io/badge/Git-fc6d26?style=flat&logo=git&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![ANSIBLE](https://img.shields.io/badge/Ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Go](https://img.shields.io/badge/GO-%2300ADD8.svg?style=flat&logo=go&logoColor=white) <br>
@@ -55,6 +74,17 @@
  <p align="center">
   <a href="https://github.com/gtamilvanan17">
    <img src="https://github-profile-trophy.vercel.app/?username=gtamilvanan17&title=MultiLanguage,Repositories,Commits,PullRequest,Stars,Followers,Issues,Experience&column=4&row=2&theme=radical&border_radius=20"/>
+
+  </a>
+ </p>
+</details>
+
+<details>
+ <summary>🏆 <b>My Contribution Graph</b></summary>
+ <br />
+ <p align="center">
+  <a href="https://github.com/gtamilvanan17">
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtamilvanan17&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true"/>
 
   </a>
  </p>
