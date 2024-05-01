@@ -51,7 +51,7 @@
 
 ## My Contribution Graph
 <a href="https://github.com/gtamilvanan17">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtamilvanan17&theme=rogue"/>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gtamilvanan17&theme=rogue&radius=20"/>
 
   </a>
 
