@@ -1,6 +1,6 @@
 ## My Profile Views
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gtamilvanan17&label=Profile%20views&color=0e75b6&style=flat%22%20alt=%22Tamilvanan%20Gowran" /> </p>
-<img align="right" alt="coding" width="300" height="600" src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=10">
+<!-- <img align="right" alt="coding" width="300" height="600" src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=10"> -->
 
 
 ## Who am I and What I do:
