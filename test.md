@@ -42,35 +42,23 @@
 
 <br>
 
+<div align="center">
+  
 ### Follow us on Socials 🌐
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtamilvanan17)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@cdops_official) 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/test123)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gtamilvanan17) 
-![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/GTamilvananOff)
-
-<br>
-
-### Support
-
-1. [Found a bug?](https://github.com/NginxProxyManager/nginx-proxy-manager/issues)
-2. [Discussions](https://github.com/NginxProxyManager/nginx-proxy-manager/discussions)
-
+[![Portfolio](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Globe&logoColor=white)](https://gtamilvanan17.github.io/portfolio/)
+  
 <br>
 
 -----
-<div align="center">
-  
+
 ### Support
 <p align="center">
-  <a href="#-demo">Demo</a> •
-  <a href="#-use-cases">Use cases</a> •
-  <a href="#-features">Features</a> •
-  <a href="https://docs.superagent.sh" target="_blank">Docs</a> •
-  <a href="https://discord.com/invite/mhmJUTjW4b" target="_blank">Discord</a> •
-  <a href="#-tutorials" target="_blank">Tutorials</a> •
-  <a href="#-sdks" target="_blank">SDKs</a> •
-  <a href="#-contributions" target="_blank">Contributions</a>
+  <a href="https://github.com/gtamilvanan17/cdops-blogs/issues/new?template=bug_report.md" target="_blank">Found a bug 🐞</a> •
+  <a href="https://github.com/gtamilvanan17/cdops-blogs/discussions" target="_blank">Let's Discuss 🤩</a> •
+  <a href="https://github.com/gtamilvanan17/cdops-blogs/issues/new?template=feature_request.md">New Ideas here 💡</a> •
 </p>
 </div>
 
