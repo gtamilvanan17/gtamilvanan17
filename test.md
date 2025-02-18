@@ -28,14 +28,14 @@
 
 <br>
 
-## Environments
+## Environments 🌐
 
 [![Production](https://img.shields.io/badge/Production-site-1abc9c.svg?color=blue&logo=groupme&logoColor=white)](https://cdops.is-a.dev)
 [![Development](https://img.shields.io/badge/Development-site-1abc9c.svg?color=blue&logo=groupme&logoColor=white)](https://cdops-blogs-9tzn.onrender.com)
 
 <br>
 
-## Follow me 🌐
+## Follow me 🙌
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gtamilvanan17)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/test123)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gtamilvanan17) 
@@ -43,20 +43,16 @@
   
 <br>
 
------
-
-## Support
+## Support 😊
 <p align="center">
   <a href="https://github.com/gtamilvanan17/cdops-blogs/issues/new?template=bug_report.md" target="_blank">Found a bug 🐞</a> •
   <a href="https://github.com/gtamilvanan17/cdops-blogs/discussions" target="_blank">Let's Discuss 🤩</a> •
   <a href="https://github.com/gtamilvanan17/cdops-blogs/issues/new?template=feature_request.md">New Ideas here 💡</a> •
 </p>
-</div>
 
------
+<br>
 
-<div align="center">
-  
 ### © 2024 CD OPS. All Rights Reserved.
+
 </div>
 
